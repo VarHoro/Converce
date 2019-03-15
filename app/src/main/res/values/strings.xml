@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Калькулятор валют</string>
+    <string name="text_curs">Текущий курс %1$s к %2$s</string>
+    <string name="text_btn_enter">Введите сумму для конвертации</string>
+    <string name="text_res">Результат</string>
+    <string name="error_val">Ошибка, введите сумму!</string>
+    <string name="blank" />
+    <string name="button_action"><![CDATA[USD -> RUB]]></string>
+</resources>
